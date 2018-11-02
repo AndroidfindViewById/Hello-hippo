@@ -1,3 +1,3 @@
 # Hello-hippo
 Little hippo
-This is version v0.2
+This is version v0.3
